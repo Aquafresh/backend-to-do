@@ -6,6 +6,7 @@ This project is built on the robust Nest.js framework, offering a scalable and m
 ### To start the project
 
 Database info: <br />
+  `database_type: 'PostgreSQL`<br />
   `database_name: 'ea_test'`<br />
   `table_name: 'tasks'`,<br />
   
