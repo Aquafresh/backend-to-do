@@ -1,7 +1,7 @@
 # To-Do test assessment backend
 
-This project is built on the robust Nest.js framework, offering a scalable and modular solution.
- PostgreSQL is chosen as the database, providing reliable and efficient data storage capabilities.
+This project is built on the robust Nest.js framework, offering a scalable and modular solution.<br />
+PostgreSQL is chosen as the database, providing reliable and efficient data storage capabilities.
 
 ### To start the project
 
