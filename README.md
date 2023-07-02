@@ -8,7 +8,7 @@ PostgreSQL is chosen as the database, providing reliable and efficient data stor
 Database info: <br />
   `database_type: 'PostgreSQL'`<br />
   `database_name: 'ea_test'`<br />
-  `table_name: 'tasks'`,<br />
+  `table_name: 'tasks'`<br />
   
 Table:<br />
   `id: number`<br />
