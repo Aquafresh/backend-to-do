@@ -5,11 +5,11 @@ This project is built on the robust Nest.js framework, offering a scalable and m
 
 ### To start the project
 
-Database info: 
+Database info: <br />
   `database_name: 'ea_test'`<br />
   `table_name: 'tasks'`,<br />
   
-Table:
+Table:<br />
   `id: number`<br />
   `text: string`<br />
   `status: boolean`<br />
