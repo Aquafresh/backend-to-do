@@ -19,6 +19,6 @@ Run:<br />
 `npm install` <br />
 `start:dev`
 
-Backend run on this url: [http://localhost:3000](http://localhost:3001)
+Backend run on this url: [http://localhost:3001](http://localhost:3001)
 
 
