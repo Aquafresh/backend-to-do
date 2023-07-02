@@ -17,7 +17,7 @@ Table:<br />
 
 Run:<br />
 `npm install` <br />
-`start:dev`
+`npm start:dev`
 
 Backend run on this url: [http://localhost:3001](http://localhost:3001)
 
